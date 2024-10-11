@@ -1,2 +1,9 @@
 # SpynX
-A basic Chair (Cheat Menu) for fortnite! *features in readme file*
+*Main*
+kill all
+fly
+spinbot
+esp
+aimbot
+auto farm chest
+23 more...
