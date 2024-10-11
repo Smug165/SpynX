@@ -1,5 +1,5 @@
 # SpynX
-*Main*
+*Main*:
 kill all
 fly
 spinbot
